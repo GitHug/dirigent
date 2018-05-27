@@ -1,0 +1,9 @@
+{
+  "name": "dirigent",
+  "version": "1.0.0",
+  "description": "Conductor to orchestrate Docker containers",
+  "main": "index.js",
+  "repository": "https://github.com/GitHug/dirigent.git",
+  "author": "Fredrik Mäkilä <fredrik.makila@gmail.com>",
+  "license": "MIT"
+}
